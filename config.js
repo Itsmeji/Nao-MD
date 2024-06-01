@@ -32,11 +32,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
-global.mods = []
-global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.owner = [['22896870256', '⁨𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑', true]]
+global.mods = [['22896870256', '⁨𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑', true]]
+global.prems = [['22896870256', '⁨𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑', true]]
+global.nomorbot = '22891386435'
+global.nomorown = '22896870256'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
@@ -54,7 +54,7 @@ global.wibb = `${wktuwib}`
 //*============= SOSMED =============*/
 global.sig = 'https://www.instagram.com/ryzen_vermillion'
 global.sgh = 'https://github.com/ShirokamiRyzen'
-global.sgc = 'https://whatsapp.com/channel/0029VaGoqK589indDi4Am40J'
+global.sgc = 'https://chat.whatsapp.com/EC7bZxZ9CK97fYOYMXmzlV'
 global.sgw = 'https://ryzendesu.vip'
 global.sdc = '-'
 global.sfb = 'https://www.facebook.com/Nao.Tomori.UwU'
@@ -118,7 +118,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumb = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/a841170b838747677e1d7.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
 global.giflogo = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
 global.thumbs = ['https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg']
